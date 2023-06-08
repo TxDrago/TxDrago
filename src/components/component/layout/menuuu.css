@@ -1,0 +1,12 @@
+.menuu li {
+    display: inline-block;
+}
+.LinkFormating{
+    display: inline-block;
+    color:rgb(209, 215, 227) !important;
+    text-decoration: none;
+    padding:20px;
+    font-size: 20px;
+}
+.menuu{color:green;}
+.active_class{text-decoration: none;color:green;}
